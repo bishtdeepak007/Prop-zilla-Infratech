@@ -1,0 +1,16 @@
+
+
+:root{
+    --vw: 14.22;
+    @media (max-width:769px) {
+        --vw: 7.68;
+    }
+    @media (max-width:430px) {
+        --vw: 4;
+    }
+}
+body{
+    //--primaryColor:#d7926b;
+    
+}
+
